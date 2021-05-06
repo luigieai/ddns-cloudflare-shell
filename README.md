@@ -1,4 +1,6 @@
 # Cloudflare DDNS in shell
+Simple shell script that provides the ability to update your cloudflare A records to your machine's IP.
+
 This script is [forked from this gist](https://gist.github.com/radiantly/3dbff163624ca3dd32ee8ecf225a7b02), and the gist is a fork from another projects. I needed a solution for updating multiple A records in cloudflare, instead of one, so i changed myself and made another small changes.
 
 # Dependencies 
