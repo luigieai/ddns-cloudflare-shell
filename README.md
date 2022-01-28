@@ -9,19 +9,5 @@ Make a copy from ddns.sh and follow the script comments, you'll need from cloudf
 * An api token, you can generate [here](https://dash.cloudflare.com/profile/api-tokens)
 * The zoneID, can be found in the "Overview" tab of your domain
 
-## Centos
-```
-yum install epel-release -y
-yum update -y
-yum install jq -y
-rpm -qa | grep -i jq
-jq -Version
-```
-## Ubuntu
-```
-sudo apt install jq
-```
-## Arch
-```
-sudo pacman -S jq
-```
+## Windows 
+For windows, you can use **git bash** or similar for using this shell script
