@@ -8,8 +8,7 @@ Make a copy from ddns.sh and follow the script comments, you'll need from cloudf
 * Your account email
 * An api token, you can generate [here](https://dash.cloudflare.com/profile/api-tokens)
 * The zoneID, can be found in the "Overview" tab of your domain
-# Dependencies 
-This script needs the *jq* installed in your machine, you can install using:
+
 ## Centos
 ```
 yum install epel-release -y
